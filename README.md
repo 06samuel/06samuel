@@ -1,92 +1,52 @@
 ![](https://komarev.com/ghpvc/?username=Samuel-08&style=for-the-badge)
 
-<h1 align="center">Hai 👋, saya Samuel Christoper</h1>
+<h1 align="center">Hai 👋, Saya Samuel Christoper</h1>
 
 ## Selamat Datang di Profil Saya!
 
-Halo, saya seorang junior web developer dari Indonesia. Saya senang berbagi kodingan dan pengalaman saya di sini. Jika Anda tertarik dengan proyek-proyek saya atau ingin berkolaborasi, jangan ragu untuk menghubungi saya.
+Saya seorang junior web developer dari Indonesia yang tertarik dalam pengembangan web. Saat ini, saya fokus pada PHP dan beberapa framework pendukung. Saya suka membangun aplikasi yang bersih, terstruktur, dan efisien.  
 
-## Tentang Saya
+💡 **Keahlian utama saya:**  
+PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte), SCSS, dan CSS3.  
 
-- 🌱 Saat ini sedang belajar dan terus mengembangkan keterampilan dalam pengembangan web.
-- 👨‍💻 Saya memiliki latar belakang dalam web programing dasar dengan menggunakan bahasa pemrograman PHP.
-- 💼 Saya sedang mencari kesempatan untuk berkontribusi dalam proyek-proyek menarik dan memperluas jaringan profesional saya.
- 
-<details>
-  
-  <summary align="left"><h2> Bahasa Terpopuler </h2></summary>
-  
-<p> Berikut adalah bahasa yang sering saya gunakan: </p>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&theme=holi&layout=donut)](https://github.com/Samuel-08)
- 
-</details>
+🚀 **Tujuan saya saat ini:**  
+- Meningkatkan keterampilan dalam backend development.  
+- Mengembangkan proyek-proyek yang lebih kompleks dan scalable.  
+- Berkontribusi dalam proyek open-source atau kolaborasi dengan developer lain.  
 
-<details>
-  <summary align="left"><h2 align="left"> Teknologi </h2></summary>
-<p> Berikut adalah beberapa teknologi yang saya gunakan: </p> 
-  <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40"height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40"/>
-  </a>
-     <a href="https://www.php.net/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php" width="40" height="40" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img
-    src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg"
-    alt="bootstrap"width="44"height="40"/>
-</a>
-    <a href="https://codeigniter.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-    alt="codeigniter" width="44" height="44"/>
-</a>
- <a href="https://laravel.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
-    alt="laravel" width="40" height="40" />
-</a>
-  <a href="https://vuejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-    alt="vuejs" width="40" height="40" />
-</a>
-  <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-    alt="tailwindcss" width="40" height="40" />
-</a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass" width="40" height="40"/>
-</a>
-   <a href="https://expressjs.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-        alt="express" width="40" height="40" />
-    </a>
-<a href="https://www.figma.com/" target="_blank">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
-    alt="figma" width="40" height="40" />
-</a> 
-    <a href="https://git-scm.com/" target="_blank">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-    alt="git" width="40" height="40" />
-</a>
-  <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" />  
-  </a>
-<a href="https://axios-http.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"
-    alt="axios" width="70" height="40" />
-</a>
-</details>
+📫 **Ingin ngobrol atau kerja sama?** Jangan ragu untuk menghubungi saya!  
+
+---
+
+## 🔥 Bahasa & Teknologi yang Saya Gunakan  
+
+### **Bahasa Pemrograman**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+
+### **Framework & Library**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+
+### **Database & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+---
+
+## 📊 Statistik Penggunaan Bahasa  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&theme=holi&layout=donut)](https://github.com/Samuel-08)  
+
+---
+
+🔥 **Terima kasih sudah mampir ke profil saya!**  
+Jangan sungkan untuk berkomunikasi atau berkolaborasi. 😊  
