@@ -7,7 +7,7 @@
 Saya seorang junior web developer dari Indonesia yang tertarik dalam pengembangan web. Saat ini, saya fokus pada PHP dan beberapa framework pendukung. Saya suka membangun aplikasi yang bersih, terstruktur, dan efisien.  
 
 💡 **Keahlian utama saya:**  
-PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte), SCSS, dan CSS3.  
+PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte), CSS3, SCSS, Bootsrap, dan Tailwind.  
 
 🚀 **Tujuan saya saat ini:**  
 - Meningkatkan keterampilan dalam backend development.  
@@ -34,7 +34,15 @@ PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+
+### 🔧 **Tools & Database**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-671DD3?style=flat&logo=axios&logoColor=white)  
+
 
 ### **Database & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -48,5 +56,4 @@ PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte
 
 ---
 
-🔥 **Terima kasih sudah mampir ke profil saya!**  
-Jangan sungkan untuk berkomunikasi atau berkolaborasi. 😊  
+🔥  **Terima kasih sudah mampir ke profil saya!** Semoga kita bisa belajar dan berkembang bersama. 😊
