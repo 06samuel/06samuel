@@ -2,17 +2,18 @@
 
 <h1 align="center">Hai 👋, Saya Samuel Christoper</h1>
 
-## Selamat Datang di Profil Saya!
+## Yuk Kenalan
 
-Saya seorang junior web developer dari Indonesia yang tertarik dalam pengembangan web. Saat ini, saya fokus pada PHP dan beberapa framework pendukung. Saya suka membangun aplikasi yang bersih, terstruktur, dan efisien.  
+Saya junior web developer asal Indo yang demen banget utak-atik kode. Lagi serius ngejar PHP + framework-nya, tapi kadang suka ketiduran depan laptop 😴. Hobi saya bikin aplikasi yang rapi dan mudah dipahami. 
 
 💡 **Keahlian utama saya:**  
 PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte), CSS3, SCSS, Bootsrap, dan Tailwind.  
 
 🚀 **Tujuan saya saat ini:**  
 - Meningkatkan keterampilan dalam backend development.  
-- Mengembangkan proyek-proyek yang lebih kompleks dan scalable.  
-- Berkontribusi dalam proyek open-source atau kolaborasi dengan developer lain.  
+- Mau belajar backend lebih dalem
+- Bikin project keren yang ngga cuma "Hello World" doang
+- Kolab sama dev lain biar ngga jadi kuper
 
 📫 **Ingin ngobrol atau kerja sama?** Jangan ragu untuk menghubungi saya!  
 
@@ -43,12 +44,12 @@ PHP, Laravel, CodeIgniter, AdonisJS, JavaScript (Vanilla JS, jQuery, Vue, Svelte
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Axios](https://img.shields.io/badge/Axios-671DD3?style=for-the-badge&logo=axios&logoColor=white)  
 
-
----
-
-## 📊 Statistik Penggunaan Bahasa  
+## 📊 Statistik Coding
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&theme=holi&layout=donut)](https://github.com/Samuel-08)  
+Ini ngga termasuk waktu yang habis buat debug error typo 😂
+--- 
+🔥   ***Makasih sudah mampir ke profil saya!*** Semoga kita bisa belajar dan berkembang bersama. 
+Yuk, kita belajar dan berkembang bareng-bareng!
+Jangan lupa kasih bintang repo saya, ntar dibales pake doa! 🙏
 
----
-
-🔥  **Terima kasih sudah mampir ke profil saya!** Semoga kita bisa belajar dan berkembang bersama. 😊
+P.S: Kalo nemu typo di kode saya, itu fitur bukan bug 😎
